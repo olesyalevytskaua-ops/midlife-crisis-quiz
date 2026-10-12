@@ -3,7 +3,7 @@
 ## Verified implementation
 
 - Exactly 17 unique archetypes, each mapped to its own visually inspected final character illustration. Eight PNG character uploads and two PNG covers converted to WebP; nine matching final-named WebP files recovered from Downloads. All 19 original assets preserved, with hashes and dimensions recorded.
-- Generic PNG identities: 10_40_56 is a square cover, 10_46_48 is a landscape poster. They appear only in the optional original-poster section, never as result character substitutes.
+- Generic PNG identities: 10_40_56 is a square cover, 10_46_48 is a landscape poster. They are preserved as assets and are not displayed in the quiz.
 - Twelve psychological reflection questions about comfort, struggle, anger, failure, energy, control, reward, attention, risk, boundaries, next chapter and permission. No answer directly selects a hobby. All twelve questions are presented to everyone; no incomplete branch contributes a differently weighted profile.
 - Every archetype has description, humorous line, balance reminder, low-commitment next step, and specific guidance for friends/family. Animal adoption is not treated as an impulsive purchase; wine results explicitly allow alcohol-free rituals. Activity recommendations encourage manageable beginner steps.
 - Six automated tests pass: content/asset completeness; question vectors; all 17 reachable quiz outcomes; input rejection; 10,000 deterministic valid paths; all result URL mappings.
@@ -27,3 +27,9 @@ Tested the app at localhost under `/midlife-crisis-quiz/`, matching the producti
 English copy follows the supplied English title/posters; no translated quiz was available in the referenced chat. The scoring is hand-authored and unvalidated, clearly labelled as playful reflection. Progress is intentionally not persisted across reloads. Native share-sheet behaviour and third-party social preview caches depend on the platform and were not separately verified. Google Fonts has local font fallbacks.
 
 Original repository source was missing. This is a complete reconstruction, not a claim that the former unseen questions or scoring were preserved. No portfolio repository files are involved.
+
+## Quiz-first flow update
+
+The landing page now contains no character gallery, result browsing links or promotional posters. Generated result-page fallback HTML also omits links to other archetypes, and the root no-JavaScript message no longer offers a result shortcut. A shared result page displays the shared character and invites the visitor to take the quiz.
+
+Browser verification: the landing page rendered zero character cards and zero poster images. After all twelve questions, the Cat Queen result offered an optional, initially collapsed “Explore other plot twists” control with no gallery cards loaded. Activating it revealed sixteen other character cards, with no posters. Browsing another character retained access to optional exploration within the completed session; a newly loaded shared result offered no exploration shortcut. Scoring and the original artwork remain unchanged. The previous complete source archive and original local prototype are retained separately for portfolio use.
