@@ -1,0 +1,249 @@
+[
+  {
+    "id": "cat-queen",
+    "role": "character",
+    "original": "cat-queen.webp",
+    "webp": "cat-queen.webp",
+    "size": [
+      1254,
+      1254
+    ],
+    "source_sha256": "ce1d9bd5ef2b58836d8a842a37bd41b4a644caba0dfe6d4211c411822a90bcfc",
+    "runtime_sha256": "ce1d9bd5ef2b58836d8a842a37bd41b4a644caba0dfe6d4211c411822a90bcfc",
+    "bytes": 122362
+  },
+  {
+    "id": "constant-traveller",
+    "role": "character",
+    "original": "constant-traveller.webp",
+    "webp": "constant-traveller.webp",
+    "size": [
+      1254,
+      1254
+    ],
+    "source_sha256": "fa5e85ce438154285a633068b3cb7e593f010b74f6c46fe35f51e46214e7fdfb",
+    "runtime_sha256": "fa5e85ce438154285a633068b3cb7e593f010b74f6c46fe35f51e46214e7fdfb",
+    "bytes": 87572
+  },
+  {
+    "id": "creative-artist",
+    "role": "character",
+    "original": "creative-artist.png",
+    "webp": "creative-artist.webp",
+    "size": [
+      1254,
+      1254
+    ],
+    "source_sha256": "c4a807149310b1832d6f61603d1e4661d19ecb17df34b5f87dc8e3646e2ebc0f",
+    "runtime_sha256": "10c9908acbc84f71f8f9a51ba44d667f5159000d015f168a1b9f5c41400b48ec",
+    "bytes": 260200
+  },
+  {
+    "id": "cycling-queen",
+    "role": "character",
+    "original": "cycling-queen.webp",
+    "webp": "cycling-queen.webp",
+    "size": [
+      1254,
+      1254
+    ],
+    "source_sha256": "ed4d5682dc336eca8b2668d0fc8d61cf24bb728e12f9dc8c893f75a9ca67697e",
+    "runtime_sha256": "ed4d5682dc336eca8b2668d0fc8d61cf24bb728e12f9dc8c893f75a9ca67697e",
+    "bytes": 100024
+  },
+  {
+    "id": "dog-collector",
+    "role": "character",
+    "original": "dog-collector.webp",
+    "webp": "dog-collector.webp",
+    "size": [
+      1254,
+      1254
+    ],
+    "source_sha256": "48c60d59538330c2869d619e577b59c5da10b41efc2139e5c98e22fb590fcc30",
+    "runtime_sha256": "48c60d59538330c2869d619e577b59c5da10b41efc2139e5c98e22fb590fcc30",
+    "bytes": 100234
+  },
+  {
+    "id": "gym-rat",
+    "role": "character",
+    "original": "gym-rat.webp",
+    "webp": "gym-rat.webp",
+    "size": [
+      1254,
+      1254
+    ],
+    "source_sha256": "56845d5af0886ad41e4a6b9e49e2276bbd141d387e9fbedfdd87d03122985221",
+    "runtime_sha256": "56845d5af0886ad41e4a6b9e49e2276bbd141d387e9fbedfdd87d03122985221",
+    "bytes": 64868
+  },
+  {
+    "id": "kayak-explorer",
+    "role": "character",
+    "original": "kayak-explorer.png",
+    "webp": "kayak-explorer.webp",
+    "size": [
+      1254,
+      1254
+    ],
+    "source_sha256": "02ab5582b8ee90cd7d9cd4ae9e8f07c9037235aca48802db7e7e4a8a2e507d12",
+    "runtime_sha256": "7075576aac1455f3852d58eed1096bfd0213703f51619e51081c3e21ac39e526",
+    "bytes": 197536
+  },
+  {
+    "id": "moto-rebel",
+    "role": "character",
+    "original": "moto-rabel.png",
+    "webp": "moto-rabel.webp",
+    "size": [
+      1254,
+      1254
+    ],
+    "source_sha256": "da8cb717de6d1e7fb5fff0b8d61567d6e23f68a0927f28b74b4d502e9b91bc61",
+    "runtime_sha256": "ddf823023fe15c9c1fbbac564e3dd717c3fa0604e717985ab955bae9a379ea5e",
+    "bytes": 270134
+  },
+  {
+    "id": "mountain-addict",
+    "role": "character",
+    "original": "mountain-addict.webp",
+    "webp": "mountain-addict.webp",
+    "size": [
+      1254,
+      1254
+    ],
+    "source_sha256": "e73d0c1430fca8d45537b6196c40aa25a87a75bbb4c6f02cf801ddf17b720605",
+    "runtime_sha256": "e73d0c1430fca8d45537b6196c40aa25a87a75bbb4c6f02cf801ddf17b720605",
+    "bytes": 93640
+  },
+  {
+    "id": "photography-nerd",
+    "role": "character",
+    "original": "photography-nerd.png",
+    "webp": "photography-nerd.webp",
+    "size": [
+      1254,
+      1254
+    ],
+    "source_sha256": "07599d73cc31789715a14881e8ad2a0e9f2960d7700e5c7423fcf5bd23ca7a88",
+    "runtime_sha256": "a39ad4521046568b655002c0a999a63c5c588f0fdd54d1fbeac228871e2115d7",
+    "bytes": 234036
+  },
+  {
+    "id": "plant-mom",
+    "role": "character",
+    "original": "plant-mom.webp",
+    "webp": "plant-mom.webp",
+    "size": [
+      1254,
+      1254
+    ],
+    "source_sha256": "4d77f8c9510fdb8b7890b400ba7b99abfe4e751020f4f1ddf13c3ff6b63f5576",
+    "runtime_sha256": "4d77f8c9510fdb8b7890b400ba7b99abfe4e751020f4f1ddf13c3ff6b63f5576",
+    "bytes": 130134
+  },
+  {
+    "id": "runner-girl",
+    "role": "character",
+    "original": "runner-girl.webp",
+    "webp": "runner-girl.webp",
+    "size": [
+      1254,
+      1254
+    ],
+    "source_sha256": "6c678f2f8490a57a3753a899590fec4b1ac73689cf0b4e466b77bca605c29d4b",
+    "runtime_sha256": "6c678f2f8490a57a3753a899590fec4b1ac73689cf0b4e466b77bca605c29d4b",
+    "bytes": 63144
+  },
+  {
+    "id": "salsa-beginner",
+    "role": "character",
+    "original": "salsa-beginner.png",
+    "webp": "salsa-beginner.webp",
+    "size": [
+      1254,
+      1254
+    ],
+    "source_sha256": "f96315e02463cbf6480874a67e96cb33967fd3486c58ca086c9a253948722042",
+    "runtime_sha256": "24a96b97fce5734f6c738022632298bce313fccf2ba8e93965b75cbbd09e70e4",
+    "bytes": 169128
+  },
+  {
+    "id": "sup-addict",
+    "role": "character",
+    "original": "sup-addict.png",
+    "webp": "sup-addict.webp",
+    "size": [
+      1254,
+      1254
+    ],
+    "source_sha256": "dae1e15747012a33a9a02f058cdbf34729ab5a7bb2919545f480738655ddbd5b",
+    "runtime_sha256": "b9c8da43faa7eb2f2af60309b8eb61dda52c29b0ec17a5f3e712bc2912e9028a",
+    "bytes": 180728
+  },
+  {
+    "id": "van-life-nomad",
+    "role": "character",
+    "original": "van-life-nomad.webp",
+    "webp": "van-life-nomad.webp",
+    "size": [
+      1254,
+      1254
+    ],
+    "source_sha256": "1be14764410be5460ce1e004f126210769ae6380db3ca2679ac46a5952d10c9d",
+    "runtime_sha256": "1be14764410be5460ce1e004f126210769ae6380db3ca2679ac46a5952d10c9d",
+    "bytes": 117174
+  },
+  {
+    "id": "wine-enthusiast",
+    "role": "character",
+    "original": "wine-enthusiast.png",
+    "webp": "wine-enthusiast.webp",
+    "size": [
+      1254,
+      1254
+    ],
+    "source_sha256": "c2f5e82c6a49057f6c7d1edf5b70d23e7a9e5b189c4b2485f36acd86ebea16b5",
+    "runtime_sha256": "0cb75446577ca62ab8bb24f4d231c521a3b7c7f66ea80c0dd7047d8ea12855c0",
+    "bytes": 165300
+  },
+  {
+    "id": "zen-master",
+    "role": "character",
+    "original": "zen-master.png",
+    "webp": "zen-master.webp",
+    "size": [
+      1254,
+      1254
+    ],
+    "source_sha256": "57d05cb148ad75dad35ceb78e6c24fb78583189419bead9f81012764b54caa55",
+    "runtime_sha256": "e63f4339406f15a5c9f4fac968408135588e2dc516a64c0bbee22c99994731b6",
+    "bytes": 156948
+  },
+  {
+    "id": "cover-square",
+    "role": "poster, not character",
+    "original": "ChatGPT Image Oct 12, 2026, 10_40_56 PM (1).png",
+    "webp": "cover-square.webp",
+    "size": [
+      1254,
+      1254
+    ],
+    "source_sha256": "cf20a4266f4e68df7cc7153fde3e086abc9c54116e6b78a81aa557232dcf9644",
+    "runtime_sha256": "cbc10287a8d1820542e9f8407aff3f91269a791eb95f4f187be1530fba18b226",
+    "bytes": 406866
+  },
+  {
+    "id": "cover-landscape",
+    "role": "poster, not character",
+    "original": "ChatGPT Image Oct 12, 2026, 10_46_48 PM (1).png",
+    "webp": "cover-landscape.webp",
+    "size": [
+      1536,
+      1024
+    ],
+    "source_sha256": "a9da86a5d027a10b2dc812b8f4e2d2355a1d4f21cf076f93521fea1d3f2b7aba",
+    "runtime_sha256": "c97bc3dcaafe76fc246d56c94ab5424c5602869b565f26021019c5a79b19c489",
+    "bytes": 375776
+  }
+]
