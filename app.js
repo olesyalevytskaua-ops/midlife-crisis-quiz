@@ -1,4 +1,4 @@
-import {questions,archetypes,rank,resultFromPath} from './data.js';
+import {questions,archetypes,rank,resultFromPath} from './data.js?v=c56fdc3bd58f';
 const main=document.querySelector('main');
 const base=new URL('.',import.meta.url);
 const asset=p=>new URL(p,base).href;
